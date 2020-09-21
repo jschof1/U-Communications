@@ -15,7 +15,6 @@ body {
 	font-family: "Neutro";
 	margin: 0;
 	font: normal 75% Arial, Helvetica, sans-serif;
-	overflow: hidden;
 }
 
 canvas {
@@ -112,7 +111,7 @@ a {
 	}
 
 	a {
-		margin-left: 37%;
+		margin-left: 37.5%;
 	}
   }
 
